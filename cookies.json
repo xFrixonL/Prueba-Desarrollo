@@ -1,0 +1,69 @@
+[
+{
+    "name": "csrftoken",
+    "value": "sz9Epcb61VZVZdXktOEwSj3hQVcyPDzR",
+    "domain": ".instagram.com",
+    "path": "/"
+},
+{
+    "name": "datr",
+    "value": "174RZxH4X-tk_A6Eh8aB3LCc",
+    "domain": ".instagram.com",
+    "path": "/"
+},
+{
+    "name": "ds_user_id",
+    "value": "77936453875",
+    "domain": ".instagram.com",
+    "path": "/"
+},
+{
+    "name": "ig_did",
+    "value": "7F39A73F-F1F3-4592-BAD8-6D8F671BDA39",
+    "domain": ".instagram.com",
+    "path": "/"
+},
+{
+    "name": "ig_nrcb",
+    "value": "1",
+    "domain": ".instagram.com",
+    "path": "/"
+},
+{
+    "name": "mid",
+    "value": "ZzD6cQALAAFzRQKMXzlohQ-iXO-5",
+    "domain": ".instagram.com",
+    "path": "/"
+},
+{
+    "name": "ps_l",
+    "value": "1",
+    "domain": ".instagram.com",
+    "path": "/"
+},
+{
+    "name": "ps_n",
+    "value": "1",
+    "domain": ".instagram.com",
+    "path": "/"
+},
+{
+    "name": "rur",
+    "value": "\"LDC\\05477936453875\\0541794271939:01fe73030131cf5864391ad6bd49e7387cd8a5e723f88b731a1468d2481880ff973397fb\"",
+    "domain": ".instagram.com",
+    "path": "/"
+},
+{
+    "name": "sessionid",
+    "domain": ".instagram.com",
+    "value": "77936453875%3AlUCopbj3AF1dqO%3A2%3AAYhoHAtBz79_yMV38deASPtpnhyEl6JSKyxVAh0J5A",
+    "path": "/"
+},
+{
+    "name": "wd",
+    "value": "560x641",
+    "domain": ".instagram.com",
+    "path": "/"
+}
+]
+
